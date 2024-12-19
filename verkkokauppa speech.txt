@@ -1,6 +1,0 @@
-kun sä avaat pääsivun valikon, niin sä pääset mun tekemäni "Tietoja meistä" -sivulle. Se on melko yksinkertainen. Siinä näkyy työntekijöiden yhteystiedot. ja sit mä halusin et ne painikkeet tekesivät jotain, mutta en pystynyt ratkaisemaan sitä, joten mä siirryin muihin tehtäviin. 
-
-Tein myös rekisteröintisivun, joka on yksinkertainen ja lisäsin vaatimuksen sähköpostiin ja salasanaan, jotta kukaan ei voi vain painaa "reskisteröidy" painiketta ja ohittaa rekisteröitymisen.
-
-Lopuksi tein kirjautumissivuston, joka on melkein sama kuin rekisteröintisivu
-
